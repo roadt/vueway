@@ -27,15 +27,15 @@ export default {
 <style lang="scss">
 .input_number_panel ul  {
 		list-style-type: none;
-		width: 500px;
+		width: 700px;
 
 		li {
 									margin: 0;
 									padding: 0;
 									display: inline-block;
 									button {
-																		width: 50px;
-																		height: 50px;
+																		width: 70px;
+																		height: 70px;
 									}
 		}
 }
